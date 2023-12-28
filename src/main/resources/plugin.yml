@@ -1,0 +1,3 @@
+name: JadedLobbyPlugin
+version: '${project.version}'
+main: net.jadedlobbylegacy.JadedLobby
